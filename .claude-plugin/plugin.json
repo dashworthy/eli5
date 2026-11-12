@@ -1,0 +1,6 @@
+{
+  "name": "eli5",
+  "version": "0.1.0",
+  "description": "Makes Claude explain technical work in plain words and pictures: Whiteboards for decisions, bugs, plans, explanations and recaps.",
+  "author": { "name": "Andrew Leach" }
+}
