@@ -1,0 +1,5 @@
+{
+  "name": "eli5",
+  "owner": { "name": "Andrew Leach" },
+  "plugins": [{ "name": "eli5", "source": "./" }]
+}
